@@ -1,0 +1,13 @@
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\bin\Debug\netcoreapp3.1\Iteration_Statements_Exercise.exe
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\bin\Debug\netcoreapp3.1\Iteration_Statements_Exercise.deps.json
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\bin\Debug\netcoreapp3.1\Iteration_Statements_Exercise.runtimeconfig.json
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\bin\Debug\netcoreapp3.1\Iteration_Statements_Exercise.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\bin\Debug\netcoreapp3.1\Iteration_Statements_Exercise.dll
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\bin\Debug\netcoreapp3.1\Iteration_Statements_Exercise.pdb
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\obj\Debug\netcoreapp3.1\Iteration_Statements_Exercise.csprojAssemblyReference.cache
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\obj\Debug\netcoreapp3.1\Iteration_Statements_Exercise.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\obj\Debug\netcoreapp3.1\Iteration_Statements_Exercise.AssemblyInfo.cs
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\obj\Debug\netcoreapp3.1\Iteration_Statements_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\obj\Debug\netcoreapp3.1\Iteration_Statements_Exercise.dll
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\obj\Debug\netcoreapp3.1\Iteration_Statements_Exercise.pdb
+C:\Users\johnd\Desktop\repos\Iteration_Statements_Exercise\Iteration_Statements_Exercise\obj\Debug\netcoreapp3.1\Iteration_Statements_Exercise.genruntimeconfig.cache
